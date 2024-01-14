@@ -1,0 +1,63 @@
+.header{
+    margin: 0;
+    padding: 0;
+}
+.header .Logo img{ 
+    height: 44px;
+    width: 150px;
+    margin-top: 15px;
+}
+.header .nav ul li{
+    margin-top: 25px;
+    list-style: none;
+}
+.header .nav{
+    margin-left: -80px
+}
+.header .col-md-3 .nav{
+    margin-right: -80px
+}
+.header .text .col-md-3 ul li{
+    display: inline-block;
+    list-style: none;
+    margin-top: 25px;
+}
+.header button{
+    margin-top: 15px;
+    height: 40px;
+    width: 150px;
+    background-color: rgb(97, 97, 213);
+    color: #ffffff;
+    border-radius: 30px;
+}
+.Go .text h1{
+    font-size: 4rem;
+    margin-top: 100px;
+    text-align: center;
+    line-height: 72px;
+    font-weight: 700;
+}
+.Go .text h2{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 1.375rem;
+    line-height: 40px;
+
+}
+.From .nav .logo img{
+    width: 45px;
+}
+.From .nav .text h2{
+    font-size: 17px;
+}
+.From .nav .text p{
+    margin-top: -5px;
+    font-size: 13px;
+}
+.From .nav .text{
+    margin-left: 10px;
+}
+.From .row{
+    margin-left: 250px;
+    margin-top: 30px;
+}
