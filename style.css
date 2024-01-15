@@ -44,22 +44,31 @@
     line-height: 40px;
 
 }
-.From .nav .logo img{
+.col-md-3 .nav{
+    padding: 10px 10px;
+    display: flex;
+    gap: 10px;
+    cursor: pointer;
+}
+.col-md-3 .nan .logo img{
     width: 45px;
 }
-.From .nav .text h2{
+.col-md-3 .nan .text h2{
     font-size: 17px;
 }
-.From .nav .text p{
+.col-md-3 .nan .text p{
     margin-top: -5px;
     font-size: 13px;
 }
-.From .nav .text{
+.col-md-3 .nan .text{
     margin-left: 10px;
 }
-.From .row{
+.nav-tabs .From .row{
     margin-left: 250px;
     margin-top: 30px;
+}
+button{
+    margin-left: 500px;
 }
 .checkBox .Checkbox .box{
     border: 1px solid black;
