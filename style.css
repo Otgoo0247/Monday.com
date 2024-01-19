@@ -26,9 +26,10 @@
     margin-top: 15px;
     height: 40px;
     width: 150px;
-    background-color: rgb(97, 97, 213);
+    background-color: #6161ff;
     color: #ffffff;
     border-radius: 30px;
+    border: #ffffff;
 }
 .Go .text h1{
     font-size: 4rem;
@@ -44,39 +45,73 @@
     line-height: 40px;
 
 }
-.col-md-3 .nav{
-    padding: 10px 10px;
-    display: flex;
-    gap: 10px;
-    cursor: pointer;
-}
-.col-md-3 .nan .logo img{
+body{
+    margin: 0;
+    padding: 0;
+  }
+  .tabs .Work{
+    margin-left: 200px;
+  }
+  .tabs .Work .logo img{
     width: 45px;
-}
-.col-md-3 .nan .text h2{
-    font-size: 17px;
-}
-.col-md-3 .nan .text p{
-    margin-top: -5px;
-    font-size: 13px;
-}
-.col-md-3 .nan .text{
-    margin-left: 10px;
-}
-.nav-tabs .From .row{
-    margin-left: 250px;
-    margin-top: 30px;
-}
-button{
+    height: 45px;
+  }
+  .tabs .Work h2{
+    font-size: 18px;
+  }
+  .tabs .Work p{
+    margin-top: -10px;
+    font-size: 15px;
+  }
+  .tabs .Work .text{
+    margin-top: -43px;
+    margin-left: 220px;
+  }
+  .tabs .Sales .logo img{
+    width: 45px;
+    height: 45px;
+  }
+  .tabs .Sales h2{
+    font-size: 18px;
+    margin-left: -90px;
+  }
+  .tabs .Sales p{
+    margin-top: -10px;
+    font-size: 15px;
+  }
+  .tabs .Sales .text{
+    margin-top: -43px;
+    margin-left: 240px;
+  }
+  .tabs .Dev .logo img{
+    width: 45px;
+    height: 45px;
+  }
+  .tabs .Dev h2{
+    font-size: 18px;
+    margin-left: -140px;
+  }
+  .tabs .Dev p{
+    margin-top: -10px;
+    font-size: 15px;
+  }
+  .tabs .Dev .text{
+    margin-top: -43px;
+    margin-left: 240px;
+  }
+  button{
     margin-left: 500px;
 }
 .checkBox .Checkbox .box{
     border: 1px solid black;
     width: 130px;
     border-radius: 10px;
+    height: 150px;
+    margin-top: 30px;
 }
 .col-md-1{
     margin-left: 40px;
+    margin-top: 50px;
 }
 .checkBox .Checkbox .text{
     text-align: center;
@@ -84,9 +119,10 @@ button{
 }
 .checkBox .Checkbox .wrapper{
     margin-left: 10px;
+    margin-top: 5px;
 }
 .checkBox .Checkbox .logo{
-    margin-left: 25px;
+    margin-left: 18px;
     margin-top: -10px;
 }
 .line{
@@ -95,4 +131,28 @@ button{
     background-color: black;
     margin-bottom: 30px;
     margin-left: 110px;
+}
+.tabs .button button{
+    margin-top: 20px;
+    height: 60px;
+    width: 300px;
+    background-color: #6161ff;
+    color: #ffffff;
+    border-radius: 30px;
+    border: #ffffff;
+}
+.tabs .button{
+    margin-left: 500px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.LOGO .logo img{
+    width: 100px;
+}
+.LOGO .col-md-1{
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.LOGO .col-md-2 img{
+    margin-right: -200px;
 }
