@@ -258,4 +258,67 @@ body{
   margin-top: 30px;
   margin-bottom: 30px;
 }
+.Step .Video .container .video video{
+  width: 220px;
+  margin-top: 50px;
+}
+.Step .Video .container .video1 video{
+  width: 220px;
+  margin-top: 20px;
+}
+.Step .Video .container .video2 video{
+  width: 210px;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.Step .Video .container .video3 video{
+  width: 450px;
+  margin-top: 20px;
+}
+.Step .Video .container .video4 video{
+  width: 210px;
+  margin-top: 160px;
+  margin-left: 20px;
+}
+.Step .Video .container .video5 video{
+  width: 250px;
+  margin-left: 30px;
+  margin-top: 50px;
+}
+.Step .Video .container .video6 video{
+  width: 250px;
+  margin-left: 30px;
+  margin-top: 50px;
+  margin-left: -20px;
+}
+.Step .Video .container .video7 video{
+  width: 800px;
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-left: -20px;
+}
+.Step .Video .container .video8 video{
+  width: 250px;
+  margin-left: 30px;
+  margin-top: 50px;
+}
+.Galaxy{
+  background-color: rgb(24, 27, 52);
+}
+.Galaxy .container .text{
+  margin-top: 170px;
+  margin-left: 50px;
+}
+.Galaxy .container .text h2{
+  color: #ffffff;
+}
+.Galaxy .container .text p{
+  color: #ffffff;
+}
+.Galaxy .container .Video video{
+  width: 500px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
 
