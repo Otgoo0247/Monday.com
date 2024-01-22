@@ -147,12 +147,115 @@ body{
     margin-bottom: 30px;
 }
 .LOGO .logo img{
-    width: 100px;
+    width: 80px;
 }
 .LOGO .col-md-1{
     margin-left: 25px;
     margin-top: 25px;
 }
 .LOGO .col-md-2 img{
-    margin-right: -200px;
 }
+.Step{
+  background-color: rgb(240, 243, 255);
+}
+.Step .TEXT{
+  margin-top: 50px;
+}
+.Step .TEXT h1{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.Step .Border .container{
+  border: 1px solid white;
+  background-color: #ffffff;
+  border-radius: 20px;
+}
+.Step .Border .nav{
+  color: black;
+  margin-top: 50px;
+  margin-left: 30px;
+}
+.Step .Border .nav h3{
+  font-size: 20px;
+}
+.Step .Border .nav p{
+  font-size: 12px;
+  margin-top: -10px;
+}
+.Step .Border .nav .text{
+  margin-left: 10px;
+}
+.Step .Border .container h2{
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.Step .Border .container .line{
+  margin: 20px;
+  width: 500px;
+}
+.Step .Border .container .Top{
+  margin-left: 30px;
+  margin-top: 10px;
+}
+.Step .Border .container .button1 button{
+  margin-top: 30px;
+  height: 38px;
+  width: 150px;
+  background-color: #6161ff;
+  color: #ffffff;
+  border-radius: 30px;
+  border: #ffffff;
+}
+.Step .Border .container .button1{
+  margin-left: 30px;
+}
+.Step .Border .container .Image{
+  margin-top: 40px;
+  margin-left: 47px;
+  margin-bottom: 50px;
+}
+.borderTwo .container .border{
+  border: 1px solid white;
+  background-color: #ffffff;
+  border-radius: 20px;
+  margin-top: 50px;
+}
+.borderTwo .container .border .nav{
+  color: black;
+  margin-top: 50px;
+  margin-left: 30px;
+}
+.borderTwo .container .border .nav h3{
+  font-size: 20px;
+}
+.borderTwo .container .border .nav p{
+  font-size: 12px;
+  margin-top: -10px;
+}
+.Step .borderTwo .container .text{
+  margin-left: 30px;
+}
+.borderTwo .container .border .line{
+  margin-left: 30px;
+  width: 550px;
+  margin-top: 20px;
+}
+.Step .borderTwo .container .button2 button{
+  margin-top: 30px;
+  height: 38px;
+  width: 150px;
+  background-color: #6161ff;
+  color: #ffffff;
+  border-radius: 30px;
+  border: #ffffff;
+}
+.Step .borderTwo .container .button2{
+  margin-left: 30px;
+}
+.Step .borderTwo .container .Image{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
