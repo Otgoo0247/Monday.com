@@ -1,159 +1,157 @@
 .header{
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 .header .Logo img{ 
-    height: 44px;
-    width: 150px;
-    margin-top: 15px;
+  height: 44px;
+  width: 150px;
+  margin-top: 15px;
 }
 .header .nav ul li{
-    margin-top: 25px;
-    list-style: none;
+  margin-top: 25px;
+  list-style: none;
 }
 .header .nav{
-    margin-left: -80px
+  margin-left: -80px
 }
 .header .col-md-3 .nav{
-    margin-right: -80px
+  margin-right: -80px
 }
 .header .text .col-md-3 ul li{
-    display: inline-block;
-    list-style: none;
-    margin-top: 25px;
+  display: inline-block;
+  list-style: none;
+  margin-top: 25px;
 }
 .header button{
-    margin-top: 15px;
-    height: 40px;
-    width: 150px;
-    background-color: #6161ff;
-    color: #ffffff;
-    border-radius: 30px;
-    border: #ffffff;
+  margin-top: 15px;
+  height: 40px;
+  width: 150px;
+  background-color: #6161ff;
+  color: #ffffff;
+  border-radius: 30px;
+  border: #ffffff;
 }
 .Go .text h1{
-    font-size: 4rem;
-    margin-top: 100px;
-    text-align: center;
-    line-height: 72px;
-    font-weight: 700;
+  font-size: 4rem;
+  margin-top: 100px;
+  text-align: center;
+  line-height: 72px;
+  font-weight: 700;
 }
 .Go .text h2{
-    margin-top: 20px;
-    text-align: center;
-    font-size: 1.375rem;
-    line-height: 40px;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 1.375rem;
+  line-height: 40px;
 
 }
 body{
-    margin: 0;
-    padding: 0;
-  }
-  .tabs .Work{
-    margin-left: 200px;
-  }
-  .tabs .Work .logo img{
-    width: 45px;
-    height: 45px;
-  }
-  .tabs .Work h2{
-    font-size: 18px;
-  }
-  .tabs .Work p{
-    margin-top: -10px;
-    font-size: 15px;
-  }
-  .tabs .Work .text{
-    margin-top: -43px;
-    margin-left: 220px;
-  }
-  .tabs .Sales .logo img{
-    width: 45px;
-    height: 45px;
-  }
-  .tabs .Sales h2{
-    font-size: 18px;
-    margin-left: -90px;
-  }
-  .tabs .Sales p{
-    margin-top: -10px;
-    font-size: 15px;
-  }
-  .tabs .Sales .text{
-    margin-top: -43px;
-    margin-left: 240px;
-  }
-  .tabs .Dev .logo img{
-    width: 45px;
-    height: 45px;
-  }
-  .tabs .Dev h2{
-    font-size: 18px;
-    margin-left: -140px;
-  }
-  .tabs .Dev p{
-    margin-top: -10px;
-    font-size: 15px;
-  }
-  .tabs .Dev .text{
-    margin-top: -43px;
-    margin-left: 240px;
-  }
-  button{
-    margin-left: 500px;
+  margin: 0;
+  padding: 0;
+}
+.tabs .Work{
+  margin-left: 200px;
+}
+.tabs .Work .logo img{
+  width: 45px;
+  height: 45px;
+}
+.tabs .Work h2{
+  font-size: 18px;
+}
+.tabs .Work p{
+  margin-top: -10px;
+  font-size: 15px;
+}
+.tabs .Work .text{
+  margin-top: -43px;
+  margin-left: 220px;
+}
+.tabs .Sales .logo img{
+  width: 45px;
+  height: 45px;
+}
+.tabs .Sales h2{
+  font-size: 18px;
+  margin-left: -90px;
+}
+.tabs .Sales p{
+  margin-top: -10px;
+  font-size: 15px;
+}
+.tabs .Sales .text{
+  margin-top: -43px;
+  margin-left: 240px;
+}
+.tabs .Dev .logo img{
+  width: 45px;
+  height: 45px;
+}
+.tabs .Dev h2{
+  font-size: 18px;
+  margin-left: -140px;
+}
+.tabs .Dev p{
+  margin-top: -10px;
+  font-size: 15px;
+}
+.tabs .Dev .text{
+  margin-top: -43px;
+  margin-left: 240px;
+}
+button{
+  margin-left: 500px;
 }
 .checkBox .Checkbox .box{
-    border: 1px solid black;
-    width: 130px;
-    border-radius: 10px;
-    height: 150px;
-    margin-top: 30px;
+  border: 1px solid black;
+  width: 130px;
+  border-radius: 10px;
+  height: 150px;
+  margin-top: 30px;
 }
 .col-md-1{
-    margin-left: 40px;
-    margin-top: 50px;
+  margin-left: 40px;
+  margin-top: 50px;
 }
 .checkBox .Checkbox .text{
-    text-align: center;
-    margin-top: -10px;
+  text-align: center;
+  margin-top: -10px;
 }
 .checkBox .Checkbox .wrapper{
-    margin-left: 10px;
-    margin-top: 5px;
+  margin-left: 10px;
+  margin-top: 5px;
 }
 .checkBox .Checkbox .logo{
-    margin-left: 18px;
-    margin-top: -10px;
+  margin-left: 18px;
+  margin-top: -10px;
 }
 .line{
-    height: 0.5px;
-    width: 1000px;
-    background-color: black;
-    margin-bottom: 30px;
-    margin-left: 110px;
+  height: 0.5px;
+  width: 100%;
+  background-color: black;
+  margin-bottom: 30px;
+  margin-left: 110px;
 }
 .tabs .button button{
-    margin-top: 20px;
-    height: 60px;
-    width: 300px;
-    background-color: #6161ff;
-    color: #ffffff;
-    border-radius: 30px;
-    border: #ffffff;
+  margin-top: 20px;
+  height: 60px;
+  width: 300px;
+  background-color: #6161ff;
+  color: #ffffff;
+  border-radius: 30px;
+  border: #ffffff;
 }
 .tabs .button{
-    margin-left: 500px;
-    margin-top: 20px;
-    margin-bottom: 30px;
+  margin-left: 500px;
+  margin-top: 20px;
+  margin-bottom: 30px;
 }
 .LOGO .logo img{
-    width: 80px;
+  width: 80px;
 }
 .LOGO .col-md-1{
-    margin-left: 25px;
-    margin-top: 25px;
-}
-.LOGO .col-md-2 img{
+  margin-left: 25px;
+  margin-top: 25px;
 }
 .Step{
   background-color: rgb(240, 243, 255);
@@ -163,7 +161,6 @@ body{
 }
 .Step .TEXT h1{
   text-align: center;
-  margin-top: 50px;
   margin-bottom: 50px;
 }
 .Step .Border .container{
@@ -200,125 +197,295 @@ body{
   margin-top: 10px;
 }
 .Step .Border .container .button1 button{
-  margin-top: 30px;
-  height: 38px;
-  width: 150px;
-  background-color: #6161ff;
-  color: #ffffff;
-  border-radius: 30px;
-  border: #ffffff;
+margin-top: 30px;
+height: 38px;
+width: 150px;
+background-color: #6161ff;
+color: #ffffff;
+border-radius: 30px;
+border: #ffffff;
 }
 .Step .Border .container .button1{
-  margin-left: 30px;
+margin-left: 30px;
 }
 .Step .Border .container .Image{
-  margin-top: 40px;
-  margin-left: 47px;
-  margin-bottom: 50px;
+margin-top: 40px;
+margin-left: 47px;
+margin-bottom: 50px;
 }
 .borderTwo .container .border{
-  border: 1px solid white;
-  background-color: #ffffff;
-  border-radius: 20px;
-  margin-top: 50px;
+border: 1px solid white;
+background-color: #ffffff;
+border-radius: 20px;
+margin-top: 50px;
 }
 .borderTwo .container .border .nav{
-  color: black;
-  margin-top: 50px;
-  margin-left: 30px;
+color: black;
+margin-top: 50px;
+margin-left: 30px;
 }
 .borderTwo .container .border .nav h3{
-  font-size: 20px;
+font-size: 20px;
 }
 .borderTwo .container .border .nav p{
-  font-size: 12px;
-  margin-top: -10px;
+font-size: 12px;
+margin-top: -10px;
 }
 .Step .borderTwo .container .text{
-  margin-left: 30px;
+margin-left: 30px;
 }
 .borderTwo .container .border .line{
-  margin-left: 30px;
-  width: 550px;
-  margin-top: 20px;
+margin-left: 30px;
+width: 550px;
+margin-top: 20px;
 }
 .Step .borderTwo .container .button2 button{
-  margin-top: 30px;
-  height: 38px;
-  width: 150px;
-  background-color: #6161ff;
-  color: #ffffff;
-  border-radius: 30px;
-  border: #ffffff;
+margin-top: 30px;
+height: 38px;
+width: 150px;
+background-color: #6161ff;
+color: #ffffff;
+border-radius: 30px;
+border: #ffffff;
 }
 .Step .borderTwo .container .button2{
-  margin-left: 30px;
+margin-left: 30px;
 }
 .Step .borderTwo .container .Image{
-  margin-top: 30px;
-  margin-bottom: 30px;
+margin-top: 30px;
+margin-bottom: 30px;
 }
 .Step .Video .container .video video{
-  width: 220px;
-  margin-top: 50px;
+width: 220px;
+margin-top: 50px;
 }
 .Step .Video .container .video1 video{
-  width: 220px;
-  margin-top: 20px;
+width: 220px;
+margin-top: 20px;
 }
 .Step .Video .container .video2 video{
-  width: 210px;
-  margin-top: 50px;
-  margin-left: 20px;
+width: 210px;
+margin-top: 50px;
+margin-left: 20px;
 }
 .Step .Video .container .video3 video{
-  width: 450px;
-  margin-top: 20px;
+width: 450px;
+margin-top: 20px;
 }
 .Step .Video .container .video4 video{
-  width: 210px;
-  margin-top: 160px;
-  margin-left: 20px;
+width: 210px;
+margin-top: 160px;
+margin-left: 20px;
 }
 .Step .Video .container .video5 video{
-  width: 250px;
-  margin-left: 30px;
-  margin-top: 50px;
+width: 250px;
+margin-left: 30px;
+margin-top: 50px;
 }
 .Step .Video .container .video6 video{
-  width: 250px;
-  margin-left: 30px;
-  margin-top: 50px;
-  margin-left: -20px;
+width: 250px;
+margin-left: 30px;
+margin-top: 50px;
+margin-left: -20px;
 }
 .Step .Video .container .video7 video{
-  width: 800px;
-  margin-left: 30px;
-  margin-top: 30px;
-  margin-left: -20px;
+width: 800px;
+margin-left: 30px;
+margin-top: 30px;
+margin-left: -20px;
 }
 .Step .Video .container .video8 video{
-  width: 250px;
-  margin-left: 30px;
-  margin-top: 50px;
+width: 250px;
+margin-left: 30px;
+margin-top: 50px;
 }
 .Galaxy{
-  background-color: rgb(24, 27, 52);
+background-color: rgb(24, 27, 52);
 }
 .Galaxy .container .text{
-  margin-top: 170px;
-  margin-left: 50px;
+margin-top: 170px;
+margin-left: 50px;
 }
 .Galaxy .container .text h2{
-  color: #ffffff;
+color: #ffffff;
 }
 .Galaxy .container .text p{
-  color: #ffffff;
+color: #ffffff;
 }
 .Galaxy .container .Video video{
-  width: 500px;
-  margin-top: 100px;
-  margin-bottom: 100px;
+width: 500px;
+margin-top: 100px;
+margin-bottom: 100px;
+}
+.TabsTwo .border .image img{
+  width: 18px;
+}
+.TabsTwo .buttom .row .video video{
+  width: 600px;
+  margin-top: 50px;
+} 
+.TabsTwo .buttom .row .left{
+  margin-top: 200px;
+}
+.TabsTwo .buttom .row .left .nav img{
+  width: 30px;
+  height: 30px;
+  margin-left: 100px;
+}
+.TabsTwo .buttom .row .left .nav p{
+  margin-left: 10px;
+}
+.TabsTwo .buttom .row .left .text p{
+  margin-top: 23px;
+  font-size: 20px;
+  margin-left: 20px;
+}
+.TabsTwo .buttom .One{
+  margin-left: 100px;
+}
+.TabsTwo .border{
+  margin-left: 300px;
+  width: 700px;
+  height: 100px;
+  border-radius: 20px;
+  color: #ffffff;
+  margin-top: 50px;
+}
+.TabsTwo .border .image{
+  margin-top: 10px;
+}
+.TabsTwo .Text h1{
+  color: #000;
+  text-align: center;
+  margin-top: 60px;
+}
+.TabsTwo .Text p{
+  color: #000;
+  text-align: center;
+}
+.TabsTwo .logo{
+  margin-left: 800px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.TabsTwo .End-to-end h1{
+  text-align: center;
+}
+.TabsTwo .End-to-end p{
+  text-align: center;
+}
+.end{
+  margin-top: 50px;
+  background-color: rgb(231, 231, 219);
+}
+.end .col-md-2{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.end .text p{
+  font-size: 13px;
+}
+.end .text .nav img{
+  width: 20px;
+  height: 20px;
+}
+.end .text .nav p{
+  margin-left: 3px;
+  margin-top: -1px;
+}
+.end .text .bold p{
+  font-size: 1rem;
+}
+.end .line{
+  width: 100%;
+  margin-left: 280px;
+}
+.end .col-md-2 p{
+  font-size: 13px;
+}
+.end .iMage img{
+  width: 30px;
+  height: 30px;
+  margin-left: 5px;
+}
+.end .ENd .img{
+  width: 30px;
+  height: 30px;
+  margin-left: 15px;
+}
+.end .language p{
+  margin-left: 50px;
+  margin-top: -25px;
+}
+.end .language{
+  margin-bottom: 10px;
+}
+.end .ENd .LOgo .nav{
+  margin-top: 50px;
+}
+.end .ENd .LOgo .nav .reddit{
+  margin-left: 10px;
+}
+.end .ENd .link {
+  margin-top: -20px;
+}
+.end .ENd .link .nav .security{
+  margin-left: 10px;
+  /* border-left: 1px solid black; */
+}
+.end .ENd .link .nav .text{
+  margin-left: 10px;
+  font-size: 20px;
+  margin-top: 3px;
+}
+.end .ENd .youtube .nav .app{
+  margin-left: 10px;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+.end .ENd .heading{
+  margin-top: 18px;
+  margin-left: 9px;
+}
+.end .ENd .heading .text{
+  margin-left: 10px;
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:1060px){
+  .web-header{
+      display: none;
+  }
+  .mobile-header{
+      display: block;
+  }
+  .mobile-header ul li a{
+      text-decoration: none;
+      color: #000;
+  }
+  .content {
+      margin-top: 50px;
+  }
+  .box {
+      width: 100%;
+      background-color: #ccc;
+      height: 300px;
+      padding: 20px;
+      margin-top: 30px;
+  }
+  .box h2 {
+      text-align: center;
+      font-size: 20px;
+  }
+}
