@@ -2,16 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Monday</title>
     <link rel="stylesheet" href="style.css">
-
-    <!-- Bootstrap -->
+    <!-- Swiper -->
+    <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-
+    <title>Monday</title>
 </head>
 <body>
-    <div class="header">
+    <div class="web-header">
         <div class="container">
             <div class="row">
                 <div class="col-md-2">
@@ -69,6 +73,43 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="mobile-header">
+        <nav class="navbar bg-body-tertiary fixed-top">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#">
+                  Website Logo
+              </a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                  <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Offcanvas</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body">
+                  <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                    <li>
+                        <a href="">
+                            Нүүр
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            Бидний тухай
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            Холбоо барих
+                        </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+        </nav>
     </div>
 
     <div class="Go">
@@ -1004,7 +1045,7 @@
             </div>
         </div>
         <div class="logo">
-            <img src="https://dapulse-res.cloudinary.com/image/upload/f_auto,q_auto/Generator_featured%20images/Home%20Page%20-%202022%20Rebrand/products/monday_products_small.svg" alt="" width="300px">
+            <img src="https://dapulse-res.cloudinary.com/image/upload/f_auto,q_auto/Generator_featured%20images/Home%20Page%20-%202022%20Rebrand/products/monday_products_small.svg" alt="">
         </div>
         <div class="End-to-end">
             <h1>
@@ -1250,44 +1291,9 @@
         </div>
     </div>
 
-    <!-- <div class="mobile-header">
-        <nav class="navbar bg-body-tertiary fixed-top">
-            <div class="container-fluid">
-              <a class="navbar-brand" href="#">
-                  Website Logo
-              </a>
-              <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-              </button>
-              <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
-                <div class="offcanvas-header">
-                  <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Offcanvas</h5>
-                  <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-                </div>
-                <div class="offcanvas-body">
-                  <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
-                    <li>
-                        <a href="">
-                            Нүүр
-                        </a>
-                    </li>
-                    <li>
-                        <a href="">
-                            Бидний тухай
-                        </a>
-                    </li>
-                    <li>
-                        <a href="">
-                            Холбоо барих
-                        </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </nav>
-    </div> -->
     
+    </div>
+
     <!-- Bootstrap -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 </body>
